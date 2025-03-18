@@ -3,8 +3,16 @@ title: "Frantz Fanon et la désidentification"
 
 ---
 
-S’il est important d’amener le concept de désidentification au sein de notre réflexion afin de comprendre l’étendue de son analyse, il paraît alors inévitable d’interroger Fanon sur ces questions. En effet, il décrira, avec le concept d’aliénation au regard de l’Autre, que c’est « le regard porté par l’Autre qui nous rend étranger à nous même ». Cette citation, non sans nous rappeler le célèbre adage de Sartre « L’enfer, c’est les autres », porte néanmoins une nouveauté à la fois à une échelle psychiatrique, mais aussi philosophique. Il assure dès lors que cette aliénation provient autant de l’individuel que du collectif. C’est au sein de la vie en communauté, au sein de nos sociétés mouvantes et influençables, que l’Autre module le sujet.
-Fanon écrira alors « Le noir n’est pas un homme. Il y a une zone de non-être ». Cette zone de non-être, c’est l’entre deux qui sera porteuse de l’aliénation dont nous parlions tout à l’heure. Ainsi, le noir est dépossédé de son corps, il désidentifié. Fanon parlera ensuite d’épidermisation. On remarque ici une incorporation de la définition du corps noir. S’il y a non-être, et s’il y a aliénation, alors le noir n’existe pas. C’est d’ailleurs ici que notre point de réflexion prendre forme. La désidentification fait appel à cette aliénation dont nous parle Fanon, elle est image même de la représentation du corps noir, telle que nous le décrit l’auteur de Peau Noire, Masques Blancs.
+> c’est le regard porté par l’Autre qui nous rend étranger à nous même.
+**-Frantz Fanon**
+   
+   Cette citation, non sans nous rappeler le célèbre adage de **Sartre** 
+L’enfer, c’est les autres, porte néanmoins une nouveauté à la fois à une échelle psychiatrique, mais aussi philosophique. Il assure dès lors que cette aliénation provient autant de l’individuel que du collectif. C’est au sein de la vie en communauté, au sein de nos sociétés mouvantes et influençables, que l’Autre module le sujet.
+
+---
+
+Fanon écrira alors « Le noir n’est pas un homme. Il y a une zone de non-être ». Cette zone de non-être, c’est l’entre deux qui sera porteuse de l’aliénation dont nous parlions tout à l’heure. Ainsi, le noir est dépossédé de son corps, il désidentifié. Fanon parlera ensuite d’épidermisation. On remarque ici une incorporation de la définition du corps noir. S’il y a non-être, et s’il y a aliénation, alors le noir n’existe pas. C’est d’ailleurs ici que notre point de réflexion prendre forme. La désidentification fait appel à cette aliénation dont nous parle Fanon, elle est image même de la représentation du corps noir, telle que nous le décrit l’auteur de _Peau Noire, Masques Blancs_.
+
 Ainsi, au-delà d’une représentation physique et matérielle du corps noir, Fanon nous invite à penser une phénoménologie entière créée par l’autre blanc. Il y a dès lors toute une appréhension du monde qui est modulée par cet autre.
 « C’est de cet autre, c’est de la reconnaissance par cet autre que dépendent sa valeur et sa réalité humaines ».
 Ainsi, on peut très certainement en induire l’idée selon laquelle c’est l’autre qui créer, au-delà d’une perception biaisée du corps noir, une phénoménologie entièrement créée par son ascendant, le Blanc, comme décrit dans le livre de notre interlocuteur. De cette vision du monde imposée par le blanc, en découle des luttes et contradictions, symptomatiques d’une phénoménologie créée par ascendance et assujettissement. En effet, les valeurs rencontrées lors de combats sociaux et anti impérialistes sont, selon Fanon, des « libertés et justices blanche, c’est-à-dire des valeurs sécrétée par des maîtres ». 
