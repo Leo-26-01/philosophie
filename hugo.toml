@@ -19,8 +19,8 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+#  homeTitle = "Phénoménololo" # Set a different text for the header on the home page
+  subtitle = "Petit assortiment de mes travaux universitaires"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
