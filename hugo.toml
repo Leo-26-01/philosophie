@@ -1,6 +1,6 @@
-baseurl = "https://username.github.io"
+baseurl = "https://leo-26-01.github.io/philosophie/"
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "Phénoménololo"
 # Using theme as git submodule
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-#  homeTitle = "Phénoménololo" # Set a different text for the header on the home page
+#  homeTitle = " philosophie matérialiste " # Set a different text for the header on the home page
   subtitle = "Petit assortiment de mes travaux universitaires"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
@@ -31,7 +31,6 @@ pygmentsCodefencesGuessSyntax = true
   readingTime = true
   wordCount = true
   useHLJS = true
-  socialShare = true
   delayDisqus = true
   showRelatedPosts = true
 #  cusdisID = "XXX" # Get your App id from cusdis.com
@@ -53,38 +52,11 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
+  name = "Loryne Pinon"
   website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
+  email = "loryne.pinon@gmail.com"
   github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
   linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
-  lastfm = "username"
 
 [[menu.main]]
     name = "Blog"
